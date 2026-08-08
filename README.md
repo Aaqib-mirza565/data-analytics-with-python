@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![data-analytics-with-python-banner](./img/banner.svg)
+
 
 </div>
 
@@ -177,6 +177,6 @@ Each module builds on the previous one, reinforcing both theory and hands-on pra
 
 ## 📝 Final Notes
 
-Throughout this course you will engage in **hands-on projects, assignments, and real-world case studies** that simulate practical data analytics work.
+Throughout this course you will engage in **hands-on projects, assignments, and real-world case studies** that simulate practical Edata analytics work.
 
 ⚡ Get ready to embark on this exciting journey of becoming a **proficient Data Analyst!** 
